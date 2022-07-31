@@ -1,4 +1,4 @@
-<h1 align="center">🍭 𝗭𝗲𝗿𝗼 𝗧𝘄𝗼 𝗠𝗗 🍭<br></h1>
+<h1 align="center">🍭 Elaina 🍭<br></h1>
 
 <p align="center">
 
@@ -48,7 +48,7 @@
   
 [![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/UPPER.png)](https://ZeroTwoMd.tech/#qrcode)
   
-[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/Sampandey001/Zero-Two-Md)
+[![Deploy](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/MIDDLE.png)](https://heroku.com/deploy?template=https://github.com/union-savage/Elaina)
 
 [![](https://raw.githubusercontent.com/ZeroTwoInc/Media/main/logo/LOWER.png)](https://youtu.be/rqbeusycfHU)
 
