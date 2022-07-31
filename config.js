@@ -12,7 +12,7 @@ global.log0 = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./ZeroTwoMedia/image3.jpg") //ur error pic
 global.thumb = fs.readFileSync("./ZeroTwoMedia/image3.jpg")
 
-global.ytname = "YT: Zero Two Multi Device"
+global.ytname = "YT: Elaina Multi Device"
 global.location = "Sultanpur, Uttar Pradesh, India"
 global.botscript = "https://github.com/SamPandey001/Zero-Two-Md"
 global.antitags = true
